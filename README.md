@@ -3,18 +3,18 @@
 In this repository we present a pretrained model for classifiying
 Wittgenstein's remarks. The pretrained model can detect and classify 70
 different categories for a remark: Jetzt, Regel, Sprache, Gedanke, Behauptung,
-Mengenlehre, Gleich, Unendliche, Möglichkeit, Begriff, Idealismus, Gegenstand,
+Mengenlehre, Gleich, Unendliche Möglichkeit, Begriff, Idealismus, Gegenstand,
 Kardinalzahlen, Phänomenologie, Hypothese, Ursache, Ungefähr, Unendlichkeit,
-Entdeckung, Problem, Mathematik, Metamathematik, Schmerzen, Sprache,
-Sprachspiel, Satz, Klasse, Erwartung, und, Erfüllung, Gesichtsraum, XXX,
-Bedeutung, Grund, Sinn, Philosophie, Versuchen, Suchen, Vorstellung, Abbild,
-Fähigkeit, Zeit, Logik, Farben, und, Farbenmischung, Minima, Visibilia, Grund,
-des, Denkens, W-F-Notation, Undeutlichkeit, Glaube, Wissen, Logische, Form,
-Tabelle, Anwendung, Unmittelbares, Allgemeinheit, Grammatik, Zeichen, Schach,
-Folgen, Beweis, Mathematik, Induktion, Induktionsbeweis, Wahrscheinlichkeit,
-Gebrauch, Meinen, Physikalischer, Raum, Absicht, Im, selben, Sinn, Zahlen,
-Regel, Erfahrungssatz, Nicht, Verifikation, Verstehen, Tonfolge, Physikalische,
-Sprache and Denken.
+Entdeckung, Problem, Mathematik Metamathematik, Schmerzen, Sprache Sprachspiel,
+Satz, Klasse, Erwartung und Erfüllung, Gesichtsraum, XXX, Bedeutung, Grund,
+Sinn, Philosophie, Versuchen Suchen, Vorstellung, Abbild, Fähigkeit, Zeit,
+Logik, Farben und Farbenmischung, Minima Visibilia, Grund des Denkens,
+W-F-Notation, Undeutlichkeit, Glaube, Wissen, Logische Form, Tabelle,
+Anwendung, Unmittelbares, Allgemeinheit, Grammatik, Zeichen, Schach, Folgen,
+Beweis, Mathematik, Induktion Induktionsbeweis, Wahrscheinlichkeit, Gebrauch,
+Meinen, Physikalischer Raum, Absicht, Im selben Sinn, Zahlen, Regel
+Erfahrungssatz, Nicht, Verifikation, Verstehen, Tonfolge, Physikalische Sprache
+and Denken.
 
 This work was done during summer semester 2017 with support by [Dr. Maximilian
 Hadersbeck](http://cis.lmu.de/personen/mitarbeiter/hadersbeck/index.html) ([LMU
