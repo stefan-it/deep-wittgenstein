@@ -112,7 +112,7 @@ print(predicted)
 
 This will output of 5 best predicted categories for the input remark:
 
-```json
+```python
 [('Allgemeinheit', 0.66499853), ('Folgen', 0.53158545),
  ('Regel', 0.004923807), ('Satz', 0.0018804041), ('Meinen', 0.0017680882)]
 ```
