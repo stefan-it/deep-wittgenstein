@@ -131,3 +131,15 @@ Wittgenstein.
 We are deeply grateful that Lehre@LMU funded our research project with a
 NVIDIA Jetson TX1 developer board and we would like thank LMU Munich for this
 awesome program. This really helps students and boosts research.
+
+# Contact (Bugs, Feedback, Contribution and more)
+
+For questions about *deep-wittgenstein*, contact the current maintainer:
+Stefan Schweter <stefan@schweter.it>.
+
+# License
+
+To respect the Free Software Movement and the enormous work of Dr. Richard Stallman
+this repository is released under the *GNU Affero General Public License*
+in version 3. More information can be found [here](https://www.gnu.org/licenses/licenses.html)
+and in `COPYING`.
